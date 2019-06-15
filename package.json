@@ -1,7 +1,7 @@
 {
 	"name": "osmium-typedoc-default-themes",
 	"description": "Default themes for TypeDoc security fix for osmium-*",
-	"version": "0.6.0-0",
+	"version": "0.6.0-1",
 	"homepage": "https://typedoc.org/",
 	"main": "bin/plugin.js",
 	"files": [
